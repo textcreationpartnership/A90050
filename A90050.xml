@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Generall Lesleys speech in the Parliament of Scotland the 25 of October, 1641. In defence of himselfe upon certaine slanders which are reported of him. Wherein he expresseth his affection to the king and kingdome of England. Also concerning the traytors of Scotland which did lay a plot to take away his life.</title>
+            <title>Speech in Parliament in Scotland the 25 of October, 1641, in defence of himselfe</title>
+            <author>Newark, David Leslie, Baron, d. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90050</idno>
+            <idno type="STC">Wing N840</idno>
+            <idno type="STC">Thomason E199_18</idno>
+            <idno type="EEBO-CITATION">50874296</idno>
+            <idno type="OCLC">ocm 50874296</idno>
+            <idno type="VID">157516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157516)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Generall Lesleys speech in the Parliament of Scotland the 25 of October, 1641. In defence of himselfe upon certaine slanders which are reported of him. Wherein he expresseth his affection to the king and kingdome of England. Also concerning the traytors of Scotland which did lay a plot to take away his life.</title>
+                  <title>Speech in Parliament in Scotland the 25 of October, 1641, in defence of himselfe</title>
+                  <author>Newark, David Leslie, Baron, d. 1682.</author>
+               </titleStmt>
+               <extent>[7] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut illus. on t.p.</note>
+                  <note>Imperfect: imprint cropped.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newark, David Leslie, --  Baron, d. 1682.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157516:1"/>
+            <pb facs="tcp:157516:1" rendition="simple:additions"/>
+            <p>GENERALL LESLEYS SPEECH
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Parliament of
+Scotland, the 25. of October, 1641. In defence of himſelfe upon certaine
+ſlanders which are reported of him.</p>
+            <p>
+               <hi>Wherein be expreſſeth his affection to the King and
+King<g ref="char:EOLhyphen"/>dome of England.</hi>
+            </p>
+            <p>Alſo concerning the Traytors of Scotland which did lay a plot
+to take away his life.</p>
+            <figure>
+               <figDesc>General Lesley, richly dressed, on a rearing
+horse</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157516:2"/>
+            <pb facs="tcp:157516:2"/>
+            <head>Generall <hi>Leſley's</hi> SPEECH IN PARLIAMENT.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O purge my ſelfe of ſome ſlanderous accuſations, I
+have preſumed to preſent my ſelfe before your ho<g ref="char:EOLhyphen"/>nours, thereby to
+ſtoppe the mouthes of my ene<g ref="char:EOLhyphen"/>mies, and to revive the former good opinion
+which true and loyall ſubjects have had of mee: There have beene ſome
+lately my Lords, which have not beene aſhamed to ſay, that whatſoever of
+late I at<g ref="char:EOLhyphen"/>tempted <pb facs="tcp:157516:3"/>in the defence of
+piety and truth, were all for my owne ends, not for the good of my Country.</p>
+            <p>Whereas God is my true and beſt of wit<g ref="char:EOLhyphen"/>neſſes, that all my
+intents were reall and for the good of both Kingdomes.</p>
+            <p>My Noble Lords, it is unknowne to very few of you that I have
+exerciſed armes theſe many yeares, almoſt from my childehood, and yet did
+I never take part with the Church of Rome, but have alwaies beene a ſworne
+foe againſt it.</p>
+            <p>Many battells have I fought ſince fortune was my friend to
+make me a Commander; but (I praiſe God) not ſpeaking in a boaſting way,
+as yet I never left the field but was crowned with victory.</p>
+            <p>I was your Generall againſt England, and yet not againſt it
+but for it, as it hath now happened by the moſt happy pacification.</p>
+            <p>Ye ſee my Lords now, that nature doth claim its due, old age
+overcommeth the ſtrongeſt, but yet were there occaſion in England for to
+employ me againſt a forraine foe, my ſervice ſhould attend the Kings
+command, I would make uſe of my beſt of skill to overthrow his foes: I know
+my Lords that I have beene cenſured hard of abroad, but I hope that my
+<pb facs="tcp:157516:3"/>truth and loyalty to my Soveraigne,
+ſhall ſtop the lying tongue of flying ſame; a long time was I branded
+with that accurſed title of trai<g ref="char:EOLhyphen"/>tor which my ſoule abhorres, and to defend
+my innocency, my heart at all times is ready.</p>
+            <p>My Lords, give me licence to make uſe of a dolefull
+expreſſion, which is for the ingrati<g ref="char:EOLhyphen"/>tude of thoſe for whom I feared not
+to ven<g ref="char:EOLhyphen"/>ture my deareſt bloud, yet theſe deceitfull <hi>Iudaſes</hi> have
+agreed together to betray mee and ſnatch away my ſhort breathing life.</p>
+            <p>How many dayes when they have beene ſporting and taking their
+pleaſures, have I beene taking paines, and ſtudying for to pre<g ref="char:EOLhyphen"/>ſerve both
+them and their families? How many nights have I watched, when they have beene
+mantled in their ſilkes, and proſtrated upon their downe beds, taking their
+ſweet, ſi<g ref="char:EOLhyphen"/>lent and quiet reſt: And yet for all this my Lords, am I the
+marke they have chiefely ſhot at to deſtroy, for which the great God
+forgive them, for my owne part I freely doe appealing to their conſciences
+which I know can truly tell them, whether I have de<g ref="char:EOLhyphen"/>ſerved their hate or
+no.</p>
+            <p>But yet my Lords, give me leave to ſpeake both <hi>pro</hi>
+and <hi>con,</hi> although I freely forgive them the particular injury which
+they thought to have wrought upon me, yet muſt <pb facs="tcp:157516:4"/>the
+Law have its proceeding againſt them for they which will goe about to robbe
+the King of his true and loyall ſubjects, will not be afraid in time to try
+their utmoſt skill to deſtroy the King himſelf.</p>
+            <p>O Ambition, Ambition! How loftily doſt thou ſoare? For it is
+thee and none but thee which doth ſteere the actions of each diſloy<g ref="char:EOLhyphen"/>all
+traitor for being great, yet becauſe they doe not daily ariſe to bee
+greater, they will ſtrive to ſwimme to their intents through a ſea of
+bloud: What honour would theſe Lords have got to take away my life? O but
+they had greater priſes which they did aime at, but God did hinder them, who
+alwaies hath beene and alwaies will bee the defender of thoſe which put their
+truſt in him the living God.</p>
+            <p>In what a miſerable eſtate are theſe men in now? They have
+gained themſelves the e<g ref="char:EOLhyphen"/>verlaſting hate of all good men, they have loſt
+their honours, ſtained their Anceſtors ſame, and prejudicated their owne
+lives: Oh did a traitor but thinke before what hee went about when his minde is
+firſt hampering upon treachery! he would change his wicked re<g ref="char:EOLhyphen"/>ſolution; for
+firſt, let him thinke of the danger which will follow, and then of ten
+hundred <pb facs="tcp:157516:4"/>thouſand times much more in
+the world to come.</p>
+            <p>My Lords, may I finde the joyes of hea<g ref="char:EOLhyphen"/>ven, but as truly as I
+meane faithfully both to my King and Country, and then were I cer<g ref="char:EOLhyphen"/>taine of an
+everlaſting, moſt happy, joyfull and heavenly eſtate: That God would
+al<g ref="char:EOLhyphen"/>waies bleſſe King <hi>Charles</hi> our lawfull native King and
+Governour, &amp; his true ſubjects ſhal alwaies be my praier, and ſo is
+it I know of all thoſe which wiſh well unto Sion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
